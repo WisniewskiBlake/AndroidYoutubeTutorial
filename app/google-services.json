@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441181661345",
+    "firebase_url": "https://networkingapp-1689b.firebaseio.com",
+    "project_id": "networkingapp-1689b",
+    "storage_bucket": "networkingapp-1689b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441181661345:android:a20da2ca320f68871be8e0",
+        "android_client_info": {
+          "package_name": "com.example.networkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441181661345-vqda0i9542hr4lfn7s2bfi7mnq7ivgqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.networkingapp",
+            "certificate_hash": "7539a6566bee830704c2e52de64bf8095968a1e7"
+          }
+        },
+        {
+          "client_id": "441181661345-nes4fd9vcrf5mac5d7mds2kg4pqghf39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXp_GM9wTNLsxsVQwvR5s_8g1qShO7whs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441181661345-nes4fd9vcrf5mac5d7mds2kg4pqghf39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
